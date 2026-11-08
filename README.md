@@ -16,7 +16,7 @@ Ukrainian (native) · Russian (fluent) · English (B2)
 
 ## 📫 Contact
 Soon..
-
+<p align="center"><img src="art.png" alt="art" width="420"></p>
 <!--
 **olharts/olharts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
